@@ -14,12 +14,12 @@ export default createGlobalStyle`
     }
 
     body, input, button {
-      background: linear-gradient(-90deg, #fff, #ddd);
+      background: linear-gradient(-90deg, #222, #000);
         font: 14px Roboto, sans-serif;
     }
 
     #root {
-        max-width: 80%;
+        max-width: 90%;
         margin: 0 auto;
         padding: 0 20px 50px;
     }
