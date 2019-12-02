@@ -10,6 +10,7 @@ export const Container = styled.div`
     justify-content: space-between;
     padding: 5px;
     border-radius: 10px;
+    box-shadow: 0 2px 2px rgba(255, 255, 255, 0.22);
 
     > img {
         height: 40px;
